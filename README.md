@@ -1,0 +1,1 @@
+This project is meant to bring a database for blood bank management system which is used to store and retrieve information related to blood donations/inventory the project aims to expose the relevance and importance of blood bank management system. This project is fully functional using JAVA and MySQL. 
